@@ -52,20 +52,14 @@ Welcome to the **Roblox Automation Hub**. This repository serves as a central ar
 
 ---
 
-## 📂 Repository Structure
+## 💡 Request a Game
 
-```text
-Roblox-Automation-Hub/
-│
-├── Ultimate-Camp-Tycoon/       # Ultimate-Camp-Tycoon scripts
-│   ├── ultimate_camp_fishing.py # 🎣 Fishing Bot
-│   └── README.md               # Instructions & Config
-│
-├── [Future Game]/              # 🔜 Coming Soon
-│
-└── README.md                   
+Have a game you want automated? I take requests!
 
-```
+1.  Navigate to the [**Issues**](../../issues) tab.
+2.  Click **New Issue**.
+3.  Add the label `Game Request`.
+4.  Include the **Game Link** and describe exactly what you want the bot to do (e.g., "Fishing," "Clicking," "Collecting").
 
 ---
 
