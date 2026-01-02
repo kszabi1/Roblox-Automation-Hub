@@ -7,7 +7,6 @@
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-lightgrey?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/kszabi1/Roblox-Automation-Hub?style=social)
 
 </div>
 
