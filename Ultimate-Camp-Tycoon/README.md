@@ -41,23 +41,20 @@ If this script help you save time or progress faster, consider supporting the pr
 ## ⚙️ Installation
 
 1.  Make sure you have **Python 3.x** installed.
-2.  Install the required libraries (the script will try to do this automatically, but you can do it manually):
-    ```bash
-    pip install pyautogui pynput
-    ```
-3.  Download `ultimate_camp_fishing.py` to your computer.
+2.  Download `ultimate_camp_fishing.py` to your computer.
 
 ---
 
 ## 🎮 How to Use
 
-1.  Open **Ultimate Camp Tycoon** in Roblox.
-2.  Equip your **Fishing Rod**.
+1.  Open [**Ultimate Camp Tycoon**](https://www.roblox.com/games/10412238489/Ultimate-Camp-Tycoon-RE-CAMPED) in Roblox.
+2.  Go to the **Fishing Position** and start the mini game.
 3.  Run the script in your terminal/command prompt:
     ```bash
     python ultimate_camp_fishing.py
     ```
 4.  **Hover your mouse cursor** directly over the "Cast" / "Reel" button.
+    * ⚠️ **Important:** Do not place the mouse on the fishing rod icon! Place it on the **solid color** (Blue) part of the button.
 5.  Press **`s`** on your keyboard to **START**.
     * *The bot will save the color under your mouse and begin automation.*
 6.  Press **`q`** to **QUIT** the script.
