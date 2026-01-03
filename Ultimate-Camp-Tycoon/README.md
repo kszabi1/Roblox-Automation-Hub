@@ -4,19 +4,20 @@
 
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-lightgrey?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Working-brightgreen?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Working%20(Beta)-e6a700?style=for-the-badge)
 
-## 📖 Features
+## ⚠️ Compatibility Note
 
-* **🖥️ Cross-Platform Auto-Detect:** Automatically detects if you are on **Windows** or **macOS** and adjusts the target colors accordingly:
-    * *Windows Target:* Green `(0, 179, 0)`
-    * *Mac Target:* Green `(80, 176, 51)`
-* **🧠 Smart UI Refresh (Stuck Prevention):**
-    * If the game stops registering the button hover (common bug in Roblox), the bot automatically moves the mouse away and back to "wake up" the button.
-* **💤 Anti-Idle System:**
-    * Micro-movements prevent your computer from sleeping or the game from kicking you for inactivity.
-* **⚡ Fast Reeling:**
-    * Uses burst clicking to reel in fish instantly.
+| OS | Status | Notes |
+| :--- | :--- | :--- |
+| **macOS (Apple Silicon)** | ✅ **Perfect** | Tested on M2. Runs flawlessly with no issues. |
+| **Windows 10/11** | ⚠️ **Buggy** | Functional, but has a known issue where it sometimes fails to detect the button. |
+
+> **🚧 Work In Progress:**
+> I am actively working on a fix for the Windows detection issue.
+> You can track the progress, report your experience, or suggest fixes in the official issue thread:
+>
+> 👉 [**Track Issue: Windows Color Detection Fix**](https://github.com/kszabi1/Roblox-Automation-Hub/issues/1)
 
 ---
 
