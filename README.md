@@ -46,7 +46,7 @@ Welcome to the **Roblox Automation Hub**. This repository serves as a central ar
 
 | Game Title | Script Type | Status | Link |
 | --- | --- | --- | --- |
-| **Ultimate Camp Tycoon** | 🐟 AFK Fishing Bot | 🟠 **Functional (Minor Bugs)** | [**View Script**](https://github.com/kszabi1/Roblox-Automation-Hub/Ultimate-Camp-Tycoon/) |
+| **Ultimate Camp Tycoon** | 🐟 AFK Fishing Bot | 🟠 **Functional (Minor Bugs)** | [**View Script**](https://github.com/kszabi1/Roblox-Automation-Hub/tree/main/Ultimate-Camp-Tycoon) |
 | *More coming soon...* | ... | ⚪ Planned | ... |
 
 ---
