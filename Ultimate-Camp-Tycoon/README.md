@@ -41,7 +41,7 @@ If this script help you save time or progress faster, consider supporting the pr
 ## ⚙️ Installation
 
 1.  Make sure you have **Python 3.x** installed.
-2.  Download `ultimate_camp_fishing.py` to your computer.
+2.  Download `ultimate_camp_tycoon_fishing_bot.py` to your computer.
 
 ---
 
