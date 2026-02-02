@@ -13,7 +13,7 @@
 | **macOS (Apple Silicon)** | ✅ **Perfect** | Tested on M2. Runs flawlessly with no issues. |
 | **Windows 10/11** | ⚠️ **Buggy** | Functional, but has a known issue where it sometimes fails to detect the button. |
 
-> **🚧  I am no longer working on a fixs for this script.**
+> **🚧 I will not be providing further fixes for this script.**
 
 ---
 
