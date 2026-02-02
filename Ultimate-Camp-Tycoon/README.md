@@ -13,11 +13,7 @@
 | **macOS (Apple Silicon)** | ✅ **Perfect** | Tested on M2. Runs flawlessly with no issues. |
 | **Windows 10/11** | ⚠️ **Buggy** | Functional, but has a known issue where it sometimes fails to detect the button. |
 
-> **🚧 Work In Progress:**
-> I am actively working on a fix for the Windows detection issue.
-> You can track the progress, report your experience, or suggest fixes in the official issue thread:
->
-> 👉 [**Track Issue: Windows Color Detection Fix**](https://github.com/kszabi1/Roblox-Automation-Hub/issues/1)
+> **🚧  I am no longer working on a fixs for this script.**
 
 ---
 
